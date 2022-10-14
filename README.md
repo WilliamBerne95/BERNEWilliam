@@ -9,11 +9,12 @@
 <p align="center">I like to spend my time in leveraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖 and play video games 🎮.</p>
 
 School career : 
-  <p align="center">-Technical diploma (Lycée Jules Verne, CERGY) [2016-2018] ; -Aquaculture HND (Calais)[2020-2021] ; 
+<p align="center">-Technical diploma (Lycée Jules Verne, CERGY) [2016-2018]   
+-Aquaculture HND (Calais)[2020-2021]
   
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="(https://imgs.search.brave.com/gYJ0gRpwxZH3NHw1GawuG2zOTvHlGJfcWDS4_PkWvhI/rs:fit:905:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/X3p1eGljM2ZLd0Zv/NnN2UXBXMnNnSGFE/NCZwaWQ9QXBp)" width="30px">
+<img src="https://imgs.search.brave.com/gYJ0gRpwxZH3NHw1GawuG2zOTvHlGJfcWDS4_PkWvhI/rs:fit:905:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/X3p1eGljM2ZLd0Zv/NnN2UXBXMnNnSGFE/NCZwaWQ9QXBp" width="600px">
 
 

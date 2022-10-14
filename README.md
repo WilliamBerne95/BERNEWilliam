@@ -9,8 +9,8 @@
 <p align="center">I like to spend my time in leveraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖 and play video games 🎮.</p>
 
 School career : 
-  <p align="center">-Aquaculture HND (Calais)
-  -BAC STI2D ITEC (Lycée Jules Verne, CERGY)
+  <p align="center">-Technical diploma (Lycée Jules Verne, CERGY) [2016-2018] ; -Aquaculture HND (Calais)[2020-2021] ; 
+  
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

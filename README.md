@@ -8,7 +8,7 @@
 
 <p align="center">I like to spend my time in leveraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖 and play video games 🎮.</p>
 
-School career
+School career : 
   <p align="center">-Aquaculture HND (Calais)
   -BAC STI2D ITEC (Lycée Jules Verne, CERGY)
 <!--Trap--:)-->

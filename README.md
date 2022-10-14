@@ -11,6 +11,6 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<a href="https://imgs.search.brave.com/gYJ0gRpwxZH3NHw1GawuG2zOTvHlGJfcWDS4_PkWvhI/rs:fit:905:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/X3p1eGljM2ZLd0Zv/NnN2UXBXMnNnSGFE/NCZwaWQ9QXBp">
+<img src="(https://imgs.search.brave.com/gYJ0gRpwxZH3NHw1GawuG2zOTvHlGJfcWDS4_PkWvhI/rs:fit:905:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/X3p1eGljM2ZLd0Zv/NnN2UXBXMnNnSGFE/NCZwaWQ9QXBp)" width="30px">
 
 
